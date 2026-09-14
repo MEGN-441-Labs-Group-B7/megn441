@@ -1,0 +1,26 @@
+axes:
+- 0.0078125 - left horizontal
+- 0.0 - left vertical
+- 0.0078125 - right horizontal
+- 0.0 - right vertical
+- 0.0
+- 0.0
+- 0.0
+- 0.0
+buttons:
+- 0 - A
+- 0 - B
+- 0 - 
+- 0 - X
+- 0 - Y
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
+- 0
